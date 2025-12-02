@@ -1,6 +1,7 @@
 # Huffman Coding Compression Tool
 
-![alt text](<Bildschirmfoto 2025-12-02 um 10.13.20 AM.png>).  
+
+
 
 A complete implementation of the Huffman coding algorithm in C for lossless data compression and decompression.
 
